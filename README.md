@@ -2,7 +2,7 @@
 
 Atualmente:
 
-* Estagiário na empresa Sioux Digital
+* Desenvolvedor na empresa Sioux Digital 1:1
 
 * Aluno de Análise e Desenvolvimento na FIAP
 
