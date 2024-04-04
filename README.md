@@ -4,8 +4,6 @@ Atualmente:
 
 * Desenvolvedor na empresa Sioux Digital 1:1
 
-* Aluno de Análise e Desenvolvimento na FIAP
-
 **Aprendendo e inovando todos os dias**
 
 ---
