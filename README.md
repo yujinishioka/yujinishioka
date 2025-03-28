@@ -4,6 +4,15 @@
 
 ---
 
+## Estatísticas Github
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yujinishioka&show_icons=true&theme=dark&locale=en&layout=compact" alt="yujinishioka"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yujinishioka&show_icons=true&theme=dark&locale=en" alt="yujinishioka"/>
+</div>
+
+---
+
 ## Minhas Redes:
 
 <div>
