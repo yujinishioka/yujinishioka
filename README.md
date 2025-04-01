@@ -6,7 +6,7 @@
 
 ## Estatísticas Github
 
-<div style="display: flex; flex-direction: column; gap: 6px; align-items: center; justify-content: center;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yujinishioka&exclude_repo=disruptive-architectures,ai-chatbot&show_icons=true&theme=dark&locale=en&layout=compact" alt="yujinishioka"/>
     <img src="https://github-readme-stats.vercel.app/api?username=yujinishioka&show_icons=true&theme=dark&locale=en" alt="yujinishioka"/>
 </div>
@@ -15,7 +15,7 @@
 
 ## Minhas Redes:
 
-<div style="text-align: center;">
+<div align="center">
     <a href="https://www.linkedin.com/in/yuji-nishioka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
@@ -44,7 +44,7 @@
 ## Linguagens e Ferramentas:
 
 <!-- <code><img height="48" src="[url]"></code> -->
-<div style="text-align: center;">
+<div align="center">
     <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     <code><img height="48" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/nextjs/nextjs.png"></code>
     <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
@@ -64,6 +64,6 @@
 
 ## Atualmente estudando sobre:
 
-<div style="text-align: center;">
+<div align="center">
     <code><img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
 </div>
