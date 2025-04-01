@@ -66,5 +66,6 @@
 ## Atualmente estudando sobre:
 
 <div align="center">
+    <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
     <code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 </div>
