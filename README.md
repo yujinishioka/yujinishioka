@@ -1,6 +1,6 @@
 # Vinicius Yuji Nishioka
 
-**Desenvolvedor Full Stack** de Next.js e Vue.js. Tecnólogo em Análise e Desenvolvimento de Sistemas pela **FIAP**. Ao longo de minha carreira trabalhei no desenvolvimento e manutenção de projetos focados em Next.js com estilização em Tailwind e SASS, integração com API REST e GraphQL com base em Node.js e integração com banco de dados SQL Server e Postgres, customização de CMS com WordPress e linguagem PHP e metodologia ageis com uso de Jira e Trello.
+**Desenvolvedor Full Stack** de Next.js, Angular e ASP.NET Core. Tecnólogo em Análise e Desenvolvimento de Sistemas pela **FIAP**. Ao longo de minha carreira trabalhei no desenvolvimento e manutenção de projetos focados em Next.js com estilização em Tailwind e SASS, integração com API REST e GraphQL com base em Node.js e integração com banco de dados SQL Server e Postgres, customização de CMS com WordPress em linguagem PHP e metodologia ageis com uso de Jira e Trello.
 
 ---
 
