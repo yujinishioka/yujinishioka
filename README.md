@@ -7,8 +7,8 @@
 ## Estatísticas Github
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yujinishioka&exclude_repo=disruptive-architectures,ai-chatbot&show_icons=true&theme=dark&locale=en&layout=compact" alt="yujinishioka"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=yujinishioka&show_icons=true&theme=dark&locale=en" alt="yujinishioka"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinishioka&exclude_repo=disruptive-architectures,ai-chatbot&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="yujinishioka"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yujinishioka&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="yujinishioka"/>
 </div>
 
 ---
