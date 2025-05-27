@@ -21,7 +21,15 @@
 
 ---
 
-## 🎮 Meus Projetos
+## 🎮 Meus Projetos e Portfolio
+
+### 🔹 Portfolio
+
+📌 **Tecnologias**: Next.js, Vercel
+
+📌 **Descrição**: Desenvolvido em Next.js para mostrar um pouco dos sites em que trabalhei.
+
+🔗 [Acesse o meu portfolio](https://yujinishioka-portfolio.vercel.app/pt)
 
 ### 🔹 [Gerenciador de RPG de Mesa](https://github.com/yujinishioka/rpg-manager)
 
