@@ -7,8 +7,12 @@
 ## Estatísticas Github
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujinishioka&exclude_repo=disruptive-architectures,ai-chatbot&show_icons=true&layout=compact&langs_count=8&theme=dark" alt="yujinishioka"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=yujinishioka&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="yujinishioka"/>
+    <img src="https://github-readme-stats-sepia-zeta-84.vercel.app/api/top-langs/?username=yujinishioka&exclude_repo=disruptive-architectures,ai-chatbot&show_icons=true&layout=compact&langs_count=8&theme=dark&cache_seconds=86400" alt="yujinishioka top langs"/>
+    <img src="https://github-readme-stats-sepia-zeta-84.vercel.app/api?username=yujinishioka&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400" alt="yujinishioka stats"/>
+</div>
+
+<div align="center">
+    <img src="https://ghchart.rshah.org/yujinishioka" alt="yujinishioka contributions"/>
 </div>
 
 ---
