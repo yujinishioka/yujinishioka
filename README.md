@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-    <img src="https://ghchart.rshah.org/yujinishioka" alt="yujinishioka contributions"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yujinishioka&theme=tokyo-night" alt="yujinishioka contributions"/>
 </div>
 
 ---
