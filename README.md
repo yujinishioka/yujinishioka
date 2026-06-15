@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** de Next.js, Angular, Node.js e Laravel. Tecnólogo em Análise e Desenvolvimento de Sistemas pela **FIAP**. Ao longo de minha carreira trabalhei no desenvolvimento e manutenção de projetos focados em Next.js com estilização em Tailwind e SASS, integração com API REST e GraphQL com base em Node.js e integração com banco de dados SQL Server e Postgres, customização de CMS com WordPress em linguagem PHP e metodologia ageis com uso de Jira e Trello.
 
-Trabalho com projetos desde Landing Pages à Microsserviços SAP. Proativo e com determinação para evoluir e entender os problemas reais dos clientes, sinta-se livre para me contatar para conversar, indicar e trocar network.
+Trabalho com projetos desde Landing Pages à Microsserviços SAP. Proativo e com determinação para evoluir e entender os problemas reais dos clientes, sinta-se livre em me contatar para conversar, indicar e trocar network.
 
 ---
 
